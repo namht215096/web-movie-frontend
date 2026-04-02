@@ -1,0 +1,168 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "slug": "inception",
+      "year": 2010,
+      "rating": 8.8,
+      "duration": 148,
+      "genre": ["Hành động", "Khoa học viễn tưởng", "Phiêu lưu"],
+      "type": "phim-le",
+      "poster": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "description": "Một tên trộm chuyên đánh cắp bí mật từ tiềm thức của người khác trong khi họ đang mơ được đặt hàng để cấy ghép một ý tưởng vào tâm trí của CEO."
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "slug": "the-dark-knight",
+      "year": 2008,
+      "rating": 9.0,
+      "duration": 152,
+      "genre": ["Hành động", "Tội phạm", "Kịch tính"],
+      "type": "phim-le",
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "description": "Khi mối đe dọa của Joker nhấn chìm Gotham vào hỗn loạn, Batman phải đối mặt với một trong những thử thách tâm lý lớn nhất trong cuộc chiến chống lại tội phạm."
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "slug": "interstellar",
+      "year": 2014,
+      "rating": 8.6,
+      "duration": 169,
+      "genre": ["Phiêu lưu", "Kịch tính", "Khoa học viễn tưởng"],
+      "type": "phim-le",
+      "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "description": "Một nhóm phi hành gia du hành qua lỗ sâu trong không gian để đảm bảo sự tồn tại của nhân loại khi Trái Đất không còn có thể duy trì sự sống."
+    },
+    {
+      "id": 4,
+      "title": "The Shawshank Redemption",
+      "slug": "the-shawshank-redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "duration": 142,
+      "genre": ["Kịch tính"],
+      "type": "phim-le",
+      "poster": "https://image.tmdb.org/t/p/w500/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg",
+      "description": "Hai người đàn ông bị giam cầm trở nên gắn bó qua nhiều năm, tìm kiếm sự an ủi và cuối cùng là cứu chuộc bản thân qua những hành động nhân ái."
+    },
+    {
+      "id": 5,
+      "title": "Avengers: Endgame",
+      "slug": "avengers-endgame",
+      "year": 2019,
+      "rating": 8.4,
+      "duration": 181,
+      "genre": ["Hành động", "Phiêu lưu", "Khoa học viễn tưởng"],
+      "type": "phim-le",
+      "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "description": "Sau các sự kiện tàn khốc của Infinity War, các Avengers còn lại thực hiện sứ mệnh cuối cùng để đảo ngược hành động của Thanos và khôi phục lại sự cân bằng vũ trụ."
+    },
+    {
+      "id": 6,
+      "title": "Parasite",
+      "slug": "parasite",
+      "year": 2019,
+      "rating": 8.5,
+      "duration": 132,
+      "genre": ["Hài", "Kịch tính", "Kinh dị"],
+      "type": "phim-le",
+      "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "description": "Sự giao thoa của hai gia đình, một giàu và một nghèo, dẫn đến những hậu quả bất ngờ và bi thảm."
+    },
+    {
+      "id": 7,
+      "title": "Breaking Bad",
+      "slug": "breaking-bad",
+      "year": 2008,
+      "rating": 9.5,
+      "duration": 45,
+      "genre": ["Tội phạm", "Kịch tính", "Hồi hộp"],
+      "type": "phim-bo",
+      "poster": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+      "description": "Một giáo viên hóa học ở trường trung học được chẩn đoán mắc ung thư phổi giai đoạn 4 đã hợp tác với một cựu học sinh để sản xuất ma túy."
+    },
+    {
+      "id": 8,
+      "title": "The Witcher",
+      "slug": "the-witcher",
+      "year": 2019,
+      "rating": 8.2,
+      "duration": 60,
+      "genre": ["Hành động", "Phiêu lưu", "Giả tưởng"],
+      "type": "phim-bo",
+      "poster": "https://image.tmdb.org/t/p/w500/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
+      "description": "Geralt of Rivia, một thợ săn quái vật cô độc, đấu tranh để tìm chỗ đứng trong một thế giới mà người và ma quỷ thường tàn ác hơn cả."
+    },
+    {
+      "id": 9,
+      "title": "Oppenheimer",
+      "slug": "oppenheimer",
+      "year": 2023,
+      "rating": 8.3,
+      "duration": 180,
+      "genre": ["Tiểu sử", "Kịch tính", "Lịch sử"],
+      "type": "phim-le",
+      "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "description": "Câu chuyện về J. Robert Oppenheimer và vai trò quan trọng của ông trong việc phát triển bom nguyên tử trong Thế chiến II."
+    },
+    {
+      "id": 10,
+      "title": "Dune: Part Two",
+      "slug": "dune-part-two",
+      "year": 2024,
+      "rating": 8.5,
+      "duration": 166,
+      "genre": ["Hành động", "Phiêu lưu", "Khoa học viễn tưởng"],
+      "type": "phim-le",
+      "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "description": "Paul Atreides hợp nhất với Chani và người Fremen trong khi trên con đường trả thù những người đã phá hủy gia đình anh."
+    },
+    {
+      "id": 11,
+      "title": "Stranger Things",
+      "slug": "stranger-things",
+      "year": 2016,
+      "rating": 8.7,
+      "duration": 50,
+      "genre": ["Kịch tính", "Giả tưởng", "Kinh dị"],
+      "type": "phim-bo",
+      "poster": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+      "description": "Khi một cậu bé mất tích, thị trấn nhỏ của anh ta khám phá một bí ẩn liên quan đến các thí nghiệm bí mật, các lực lượng siêu nhiên đáng sợ."
+    },
+    {
+      "id": 12,
+      "title": "The Godfather",
+      "slug": "the-godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "duration": 175,
+      "genre": ["Tội phạm", "Kịch tính"],
+      "type": "phim-le",
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsLeMMovMABMx.jpg",
+      "description": "Câu chuyện về triều đại tội phạm của gia đình Corleone: cha trùm già Vito Corleone nhường quyền kiểm soát đế chế bí mật của mình cho con trai miễn cưỡng Michael."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@movieweb.com",
+      "password": "123456",
+      "avatar": "",
+      "role": "admin",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Văn A",
+      "email": "user@movieweb.com",
+      "password": "123456",
+      "avatar": "",
+      "role": "user",
+      "createdAt": "2024-01-02T00:00:00.000Z"
+    }
+  ]
+}
