@@ -32,11 +32,6 @@ npm run dev
 
 Mở **http://localhost:5173**
 
-## Backend đăng nhập (JWT)
-
-Nếu dùng đăng nhập / đăng ký, chạy thêm server trong thư mục `backend`:
-
-Currently, two official plugins are available:
 
 Mặc định: **http://localhost:4000**
 
